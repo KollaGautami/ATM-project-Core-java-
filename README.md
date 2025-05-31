@@ -1,22 +1,25 @@
 # ATM-project-Core-java-
-ATM Project
-This is a simple ATM simulation made with Java.
 
-What it does
+🏦 ATM Project
+A simple Java ATM simulation for learning.
+
+📝 Description
+This project lets you try out basic ATM operations:
+
 Check your balance
 
 Withdraw money
 
 Deposit money
 
-See your mini statement
+View mini statement
 
-How to use
+🖥️ How to Use
 Clone the repo:
 
 bash
 git clone https://github.com/your-username/your-repo-name.git
-Go to the project folder:
+Open the project folder:
 
 bash
 cd your-repo-name
@@ -28,18 +31,28 @@ Run the program:
 
 bash
 java atm.UserInterface
-Instructions
-Enter your ATM number and PIN.
+🎯 Features
+Easy login with ATM number and PIN
 
-Choose an option from the menu.
+Simple menu for all operations
 
-Project Files
-Atm.java – Stores ATM data
+Mini statement for recent transactions
 
-Atminterface.java – ATM operations
+📂 Project Files
+text
+atm/
+├── Atm.java             // ATM data
+├── Atminterface.java    // ATM operations
+├── AtmOperationImpl.java// ATM jobs
+└── UserInterface.java   // Main program
+💡 Quick Tips
+Tip:
+Make sure your Java is installed before running the code.
 
-AtmOperationImpl.java – Does the ATM jobs
+🚀 Get Started
+Just follow the steps above and enjoy your ATM simulation!
 
-UserInterface.java – Main program
+Note:
+Replace your-username and your-repo-name with your actual GitHub details.
 
-Just change your username and repo name and you’re good to go!
+Happy coding! 😊
